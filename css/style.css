@@ -95,7 +95,6 @@ a {
     background-color:#00CEC9;
     height:100vh;
     position:fixed;
-    z-index:-1;
     padding:300px 100px;
     color:#fff;
     text-align:center;
@@ -114,6 +113,11 @@ a {
 
 #menu ul li{
     padding:5px 0;
+}
+
+#menu ul a{
+    color: white;
+    font-size: 0.9em;
 }
 
 #lessons{
