@@ -99,6 +99,7 @@ a {
     color:#fff;
     text-align:center;
     width:20vw;
+    overflow-y: scroll;
 }
 
 #menu h5{
